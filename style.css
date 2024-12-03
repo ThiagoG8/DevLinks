@@ -41,7 +41,8 @@ body * {
 
 /* estilizando o container(caixa central) */
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /* border: 1px solid red; */
 
   /* alinha o container no meio(não funciona com o display inline) */
